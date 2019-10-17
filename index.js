@@ -1,1 +1,2 @@
-# filler
+module.exports = (api, options) => {
+}
