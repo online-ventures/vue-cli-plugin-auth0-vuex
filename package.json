@@ -1,0 +1,14 @@
+{
+  "name": "vue-cli-plugin-auth0-vuex",
+  "version": "1.0.0",
+  "description": "Authorization plugin for Vue CLI using Vuex and Auth0.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Web Online Ventures",
+  "license": "MIT"
+}
